@@ -1,6 +1,6 @@
 # 🛒 Retail Sales Forecasting System
 
-> **Final Year Machine Learning Project**  
+> **Machine Learning Project**  
 > Predict future retail sales using historical data with Python, Scikit-learn & Streamlit.
 
 ---
@@ -213,13 +213,3 @@ Predicted Sales: 285 units
 - [Streamlit Documentation](https://docs.streamlit.io)
 
 ---
-
-## 👨‍💻 Author
-
-**[Your Name]** · Final Year B.Tech / B.Sc Computer Science  
-**College:** [Your College Name]  
-**Academic Year:** 2024–25
-
----
-
-*This project was developed as a Final Year Project to demonstrate applied Machine Learning for real-world retail forecasting.*

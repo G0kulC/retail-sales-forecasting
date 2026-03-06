@@ -104,7 +104,7 @@ with st.sidebar:
     st.markdown("🐍 Python · 🧠 Scikit-learn")
     st.markdown("📊 Pandas · 🌐 Streamlit")
     st.markdown("---")
-    st.caption("Final Year Project · Retail ML")
+    st.caption("© 2026 - Made with ❤️ by Retail ML")
 
 # ─── Input Form ───────────────────────────────────────────────────────────────
 st.markdown('<div class="section-header">📋 Enter Prediction Parameters</div>', unsafe_allow_html=True)
@@ -280,4 +280,4 @@ with st.expander("🗂️ View Sample Dataset"):
 
 # ─── Footer ───────────────────────────────────────────────────────────────────
 st.divider()
-st.caption("🛒 Retail Sales Forecasting System · Final Year ML Project · Built with ❤️ using Python, Scikit-learn & Streamlit")
+st.caption("🛒 Retail Sales Forecasting System · ML Project · Built with ❤️ using Python, Scikit-learn & Streamlit")
