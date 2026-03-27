@@ -63,8 +63,8 @@ retail_sales_forecasting/
 
 ### 1. Clone / Download the Project
 ```bash
-git clone https://github.com/yourusername/retail_sales_forecasting.git
-cd retail_sales_forecasting
+git clone https://github.com/G0kulC/retail-sales-forecasting.git
+cd retail-sales-forecasting
 ```
 
 ### 2. (Optional) Create a virtual environment
